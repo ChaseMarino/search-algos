@@ -1,0 +1,17 @@
+Breadth-First Search Results: 
+Boise
+SaltLakeCity
+Hops: 2
+Distance: 1264.4598146771737 miles
+
+Depth-First Search Results: 
+Boise
+SaltLakeCity
+Hops: 2
+Distance: 1264.4598146771737 miles
+
+A* Search Results: 
+Boise
+SaltLakeCity
+Hops: 2
+Distance: 1264.4598146771737 miles
